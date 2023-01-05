@@ -1,5 +1,4 @@
-# wp_CustomCurrencySymbol
-The "Custom Currency Symbol" plugin is a WordPress plugin that allows users to add a custom currency symbol to WooCommerce.
+# The "Custom Currency Symbol" plugin is a WordPress plugin that allows users to add a custom currency symbol to WooCommerce.
 
 
 The "Custom Currency Symbol" plugin is a WordPress plugin that allows users to add a custom currency symbol to WooCommerce. This can be useful for users who are running an online store and need to use a currency that is not supported by default in WooCommerce.
